@@ -11,3 +11,5 @@
 Макет сайта: https://www.figma.com/file/sk7ufi1aXjQOvmazCHbVmM/Model-web-design-(Community)?node-id=2%3A2
 
 На сайте отстутсвует адаптив.
+
+https://qw3qw3.github.io/My__2__project/
